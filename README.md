@@ -1,8 +1,9 @@
 # git-study
 >**git**을 공부하는 레포지터리입니다.
 
-<img src="https://github.com/hy0417sage/study-git/blob/main/git-ylco.png" height="250">
-<img src="https://github.com/hy0417sage/study-git/blob/main/honux-git.jpg" height="250">
+<p align="center">
+<img src="https://github.com/hy0417sage/study-git/blob/main/git-ylco.png" height="300"> <img src="https://github.com/hy0417sage/study-git/blob/main/honux-git.jpg" height="300">
+<p>
 
 #### 📎도움 받은 강의
 - [호눅스, Git과 Github 시작하기](https://www.inflearn.com/course/git-and-github/dashboard)
