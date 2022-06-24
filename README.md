@@ -1,14 +1,12 @@
-# git-study
+# <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> git-study
 >**git**을 공부하는 레포지터리입니다.
-
-<p align="center">
-<img src="https://github.com/hy0417sage/study-git/blob/main/git-ylco.png" height="300"> <img src="https://github.com/hy0417sage/study-git/blob/main/honux-git.jpg" height="300">
-<p>
 
 #### 📎도움 받은 강의
 - [호눅스, Git과 Github 시작하기](https://www.inflearn.com/course/git-and-github/dashboard)
 - [얄코, 제대로 파는 git-github](https://www.inflearn.com/course/%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%8C%8C%EB%8A%94-%EA%B9%83)
     - [강의 자료](https://www.yalco.kr/lectures/git-github/)
+
+<img src="https://github.com/hy0417sage/study-git/blob/main/git-ylco.png" height="250"> <img src="https://github.com/hy0417sage/study-git/blob/main/honux-git.jpg" height="250">
 
 ***
 
