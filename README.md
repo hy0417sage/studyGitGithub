@@ -1,10 +1,13 @@
-# git-github
-**git-github**를 공부하는 레포지터리입니다.
+# git-study
+>**git**을 공부하는 레포지터리입니다.
 
-### 도움받은 강의 및 문헌
-- 호눅스, Git과 Github 시작하기 : https://www.inflearn.com/course/git-and-github/dashboard
-- 얄코, 제대로 파는 git-github : https://www.inflearn.com/course/%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%8C%8C%EB%8A%94-%EA%B9%83
-- 강의 참고 자료 사이트 - https://www.yalco.kr/lectures/git-github/
+<img src="https://github.com/hy0417sage/study-git/blob/main/git-ylco.png" height="250">
+<img src="https://github.com/hy0417sage/study-git/blob/main/honux-git.jpg" height="250">
+
+#### 📎도움 받은 강의
+- [호눅스, Git과 Github 시작하기](https://www.inflearn.com/course/git-and-github/dashboard)
+- [얄코, 제대로 파는 git-github](https://www.inflearn.com/course/%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%8C%8C%EB%8A%94-%EA%B9%83)
+    - [강의 자료](https://www.yalco.kr/lectures/git-github/)
 
 ***
 
@@ -23,3 +26,6 @@
 - CLI : 명령줄을 입력해서 사용하는 인터페이스 (터미널, Git Bush 등이 있다.)
 - GUI : 일반인 사용자들이 쓰기 편하도록 그래픽 요소를 활용한 인터페이스 (소스트리를 설치해서 사용할 수 있다.)
 - git에서 뭔가를 실행하기 위한 어떤 명령들을 사용할 때는 CLI를 사용하고 프로젝트의 상태를 git창에서 자세히 살펴보아야 할 때는 GUI를 사용한다. (강사님의 개인적인 취향(?) 혼용해서 사용하면 좋음)
+
+## 여러 브랜치 만들기
++ checkout 명령어가 git2.23버전 부터 switch, restore로 분리됨
